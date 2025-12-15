@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js" defer></script>
+    <script src="js/formscript.js" defer></script>
+    <title>İletişim</title>
+</head>
+
+<body>
+
+    <div id="overlay"></div>
+
+    <!-- Mobile Menu -->
+    <div id="mobile-menu" class="mobile-main-menu">
+        <ul>
+            <li><a href="şarjmap.html">Şarj İstasyonları</a></li>
+            <li><a href="ami.html">Citroën Ami</a></li>
+            <li><a href="ce04.html">CE 04</a></li>
+            <li><a href="hondae.html">Honda E</a></li>
+            <li><a href="kia.html">Kia EV6</a></li>
+
+            <li class="mobile-only"><a href="togg.html">Togg</a></li>
+            <li class="mobile-only"><a href="tesla.html">Tesla</a></li>
+            <li class="mobile-only"><a href="hyundai.html">Hyundai</a></li>
+            <li class="mobile-only"><a href="mercedes.html">Mercedes-Benz</a></li>
+            <li class="mobile-only"><a href="bmw.html">BMW</a></li>
+            <li class="mobile-only"><a href="renault.html">Renault</a></li>
+        </ul>
+    </div>
+
+    <!-- Header -->
+    <header class="main-header">
+        <div class="logo">
+            <a href="index.html">
+                <img src="img/logo.png" alt="Logo">
+            </a>
+        </div>
+
+        <nav class="desktop-main-menu">
+            <ul>
+                <li><a href="togg.html">Togg</a></li>
+                <li><a href="tesla.html">Tesla</a></li>
+                <li><a href="hyundai.html">Hyundai</a></li>
+                <li><a href="mercedes.html">Mercedes-Benz</a></li>
+                <li><a href="bmw.html">BMW</a></li>
+                <li><a href="renault.html">Renault</a></li>
+                <li><a href="iletisim.html">İletişim</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hamburger -->
+    <button id="menu-btn" class="hamburger" type="button">
+        <span class="hamburger-top"></span>
+        <span class="hamburger-middle"></span>
+        <span class="hamburger-bottom"></span>
+    </button>
+
+    <!-- Contact Section -->
+    <section class="section-i">
+        <div class="section-inner">
+
+            <form action="mailto:elektirikliaracdunyasi@gmail.com"
+                  method="post"
+                  enctype="text/plain">
+
+                <label for="name">Adınız</label>
+                <input type="text" id="name" name="Ad" required>
+
+                <label for="email">E-posta Adresiniz</label>
+                <input type="email" id="email" name="Eposta" required>
+
+                <label for="subject">Konu</label>
+                <input type="text" id="subject" name="Konu" required>
+
+                <label for="message">Mesajınız</label>
+                <textarea id="message" name="Mesaj" required></textarea>
+
+                <input type="submit" value="Gönder">
+            </form>
+
+        </div>
+
+        <div class="scroll-arrow">
+            <svg width="30" height="20">
+                <path stroke="#ffffff" fill="none" stroke-width="2"
+                      d="M2 5 L15 18 L28 5" />
+            </svg>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <ul>
+            <li>@a0e-web</li>
+            <li><a href="https://twitter.com">Twitter</a></li>
+            <li><a href="https://www.youtube.com/@a0e-web/">YouTube</a></li>
+            <li><a href="https://www.instagram.com">Instagram</a></li>
+            <li><a href="https://github.com/a0e-web">GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/alperen-osman-erdogan/">LinkedIn</a></li>
+        </ul>
+    </footer>
+
+</body>
+</html>
