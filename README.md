@@ -1,4 +1,4 @@
-# ⚡ Electric Vehicles Showcase Website
+#  Electric Vehicles Showcase Website
 
 🇹🇷 Türkçe | 🇬🇧 English
 
@@ -12,16 +12,16 @@ Site; farklı elektrikli araç markalarını, teknik özelliklerini ve Türkiye�
 Proje **HTML, CSS ve JavaScript** kullanılarak geliştirilmiştir ve **responsive (mobil uyumlu)** yapıdadır.
 
 ### 🔹 Öne Çıkan Özellikler
-- 🚗 Elektrikli araç tanıtım sayfaları (Togg, Tesla, Hyundai, BMW, Renault, Kia vb.)
-- 🔋 Elektrikli araç şarj istasyonları haritası
-- 📊 Animasyonlu sayaçlar (counter)
-- 📱 Mobil uyumlu hamburger menü
-- 🌍 Türkçe & İngilizce çoklu dil desteği (i18n)
-- 🧼 Temiz ve tekrarsız HTML yapısı
+-  Elektrikli araç tanıtım sayfaları (Togg, Tesla, Hyundai, BMW, Renault, Kia vb.)
+-  Elektrikli araç şarj istasyonları haritası
+-  Animasyonlu sayaçlar (counter)
+-  Mobil uyumlu hamburger menü
+-  Türkçe & İngilizce çoklu dil desteği (i18n)
+-  Temiz ve tekrarsız HTML yapısı
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - **HTML5**
 - **CSS3**
