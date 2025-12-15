@@ -30,3 +30,33 @@ Proje **HTML, CSS ve JavaScript** kullanılarak geliştirilmiştir ve **responsi
 - **Git & GitHub**
 
 ---
+
+# ⚡ Electric Vehicles Website
+
+This project is a simple and responsive website about **electric vehicles and charging stations**.
+
+It showcases different electric car brands, their key specifications, and a charging station map.  
+The project is built using **HTML, CSS, and Vanilla JavaScript**.
+
+---
+
+## 🚗 Features
+
+- Electric vehicle showcase pages (Togg, Tesla, Hyundai, BMW, Renault, Kia)
+- Electric vehicle charging station map
+- Animated counters
+- Mobile-friendly hamburger menu
+- Responsive design
+- Clean and reusable code structure
+
+---
+
+## 🛠️ Technologies
+
+- HTML5  
+- CSS3  
+- Vanilla JavaScript  
+- Google Maps Embed  
+- Git & GitHub  
+
+---
